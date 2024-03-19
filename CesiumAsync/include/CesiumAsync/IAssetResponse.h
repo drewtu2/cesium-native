@@ -5,6 +5,7 @@
 
 #include <gsl/span>
 
+#include <cstdint>
 #include <cstddef>
 #include <map>
 #include <string>
